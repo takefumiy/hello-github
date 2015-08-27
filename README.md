@@ -2,4 +2,4 @@
 
 for practise
 
-—ûK—p <-- wrriten in Japanese. it is garbled due to wrong code?
+?u?K?p??ãƒ» <-- wrriten in Japanese. it is garbled due to wrong code?
