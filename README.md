@@ -2,4 +2,4 @@
 
 for practise
 
-練習用 <-- wrriten in Japanese. it is garbled due to wrong code?
+練習用 <-- wrriten in Japanese. this time it works!
